@@ -1,4 +1,6 @@
-<div align="center">
+> **Fork 说明**：本仓库 fork 自 [Reukix/Reloc](https://github.com/Reukix/Reloc)，原作者为 [Reukix](https://github.com/Reukix)，著作权归原作者所有。本 fork 仅用于个人学习与同步上游，遵循原项目的 AGPL-3.0 许可证。
+>
+> <div align="center">
   <img src="docs/icon.png" alt="Reloc Icon" width="96" height="96" />
   <h1>Reloc</h1>
   <p><strong>面向 iOS 的外设级定位模拟工具</strong></p>
